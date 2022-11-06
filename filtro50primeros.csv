@@ -1,0 +1,51 @@
+continent,code,name,region,surface_area,independence_year,population,life_expectancy,gnp,gnp_old,local_name,government_form,head_of_state,capital,code2
+North America,ABW,Aruba,Caribbean,193.0,,103000,78.4,828.0,793.0,Aruba,Nonmetropolitan Territory of The Netherlands,Willem-Alexander,129.0,AW
+Asia,AFG,Afghanistan,Southern and Central Asia,652090.0,1919.0,22720000,45.9,5976.0,,Afganistan/Afqanestan,Islamic Emirate,Mohammad Omar,1.0,AF
+Africa,AGO,Angola,Central Africa,1246700.0,1975.0,12878000,38.3,6648.0,7984.0,Angola,Republic,Jose Eduardo dos Santos,56.0,AO
+North America,AIA,Anguilla,Caribbean,96.0,,8000,76.1,63.2,,Anguilla,Dependent Territory of the uK,Elisabeth II,62.0,AI
+Europe,ALB,Albania,Southern Europe,28748.0,1912.0,3401200,71.6,3205.0,2500.0,Shqiperia,Republic,Rexhep Mejdani,34.0,AL
+Europe,AND,Andorra,Southern Europe,468.0,1278.0,78000,83.5,1630.0,,Andorra,Parliamentary Coprincipality,,55.0,AD
+North America,ANT,Netherlands Antilles,Caribbean,800.0,,217000,74.7,1941.0,,Nederlandse Antillen,Nonmetropolitan Territory of The Netherlands,Willem-Alexander,33.0,AN
+Asia,ARE,united Arab Emirates,Middle East,83600.0,1971.0,2441000,74.1,37966.0,36846.0,Al-Imarat al- Arabiya al-Muttahida,Emirate Federation,Zayid bin Sultan al-Nahayan,65.0,AE
+South America,ARG,Argentina,South America,2780400.0,1816.0,37032000,75.1,340238.0,323310.0,Argentina,Federal Republic,Fernando de la Rua,69.0,AR
+Asia,ARM,Armenia,Middle East,29800.0,1991.0,3520000,66.4,1813.0,1627.0,Hajastan,Republic,Robert KotSarjan,126.0,AM
+Oceania,ASM,American Samoa,Polynesia,199.0,,68000,75.1,334.0,,Amerika Samoa,uS Territory,George W. Bush,54.0,AS
+Antarctica,ATA,Antarctica,Antarctica,13120000.0,,0,,0.0,,,Co-administrated,,,AQ
+Antarctica,ATF,French Southern territories,Antarctica,7780.0,,0,,0.0,,Terres australes francaises,Nonmetropolitan Territory of France,Jacques Chirac,,TF
+North America,ATG,Antigua and Barbuda,Caribbean,442.0,1981.0,68000,70.5,612.0,584.0,Antigua and Barbuda,Constitutional Monarchy,Elisabeth II,63.0,AG
+Oceania,AuS,Australia,Australia and New Zealand,7741220.0,1901.0,18886000,79.8,351182.0,392911.0,Australia,"Constitutional Monarchy, Federation",Elisabeth II,135.0,Au
+Europe,AuT,Austria,Western Europe,83859.0,1918.0,8091800,77.7,211860.0,206025.0,osterreich,Federal Republic,Thomas Klestil,1523.0,AT
+Asia,AZE,Azerbaijan,Middle East,86600.0,1991.0,7734000,62.9,4127.0,4100.0,Azarbaycan,Federal Republic,Heydar aliyev,144.0,AZ
+Africa,BDI,Burundi,Eastern Africa,27834.0,1962.0,6695000,46.2,903.0,982.0,Burundi/uburundi,Republic,Pierre Buyoya,552.0,BI
+Europe,BEL,Belgium,Western Europe,30518.0,1830.0,10239000,77.8,249704.0,243948.0,Belgie/Belgique,"Constitutional Monarchy, Federation",Albert II,179.0,BE
+Africa,BEN,Benin,Western Africa,112622.0,1960.0,6097000,50.2,2357.0,2141.0,Benin,Republic,Mathieu Kerekou,187.0,BJ
+Africa,BFA,Burkina Faso,Western Africa,274000.0,1960.0,11937000,46.7,2425.0,2201.0,Burkina Faso,Republic,Blaise Compaore,549.0,BF
+Asia,BGD,Bangladesh,Southern and Central Asia,143998.0,1971.0,129155000,60.2,32852.0,31966.0,Bangladesh,Republic,Shahabuddin Ahmad,150.0,BD
+Europe,BGR,Bulgaria,Eastern Europe,110994.0,1908.0,8190900,70.9,12178.0,10169.0,Balgarija,Republic,Petar Stojanov,539.0,BG
+Asia,BHR,Bahrain,Middle East,694.0,1971.0,617000,73.0,6366.0,6097.0,Al-Bahrayn,Monarchy (Emirate),Hamad ibn Isa al-Khalifa,149.0,BH
+North America,BHS,Bahamas,Caribbean,13878.0,1973.0,307000,71.1,3527.0,3347.0,The Bahamas,Constitutional Monarchy,Elisabeth II,148.0,BS
+Europe,BIH,Bosnia and Herzegovina,Southern Europe,51197.0,1992.0,3972000,71.5,2841.0,,Bosna i Hercegovina,Federal Republic,Ante Jelavic,201.0,BA
+Europe,BLR,Belarus,Eastern Europe,207600.0,1991.0,10236000,68.0,13714.0,,Belarus,Republic,Aljaksandr LukaSenka,3520.0,BY
+North America,BLZ,Belize,Central America,22696.0,1981.0,241000,70.9,630.0,616.0,Belize,Constitutional Monarchy,Elisabeth II,185.0,BZ
+North America,BMu,Bermuda,North America,53.0,,65000,76.9,2328.0,2190.0,Bermuda,Dependent Territory of the uK,Elisabeth II,191.0,BM
+South America,BOL,Bolivia,South America,1098581.0,1825.0,8329000,63.7,8571.0,7967.0,Bolivia,Republic,Hugo Banzer Suarez,194.0,BO
+South America,BRA,Brazil,South America,8547403.0,1822.0,170115000,62.9,776739.0,804108.0,Brasil,Federal Republic,Fernando Henrique Cardoso,211.0,BR
+North America,BRB,Barbados,Caribbean,430.0,1966.0,270000,73.0,2223.0,2186.0,Barbados,Constitutional Monarchy,Elisabeth II,174.0,BB
+Asia,BRN,Brunei,Southeast Asia,5765.0,1984.0,328000,73.6,11705.0,12460.0,Brunei Darussalam,Monarchy (Sultanate),Haji Hassan al-Bolkiah,538.0,BN
+Asia,BTN,Bhutan,Southern and Central Asia,47000.0,1910.0,2124000,52.4,372.0,383.0,Druk-Yul,Monarchy,Jigme Singye Wangchuk,192.0,BT
+Antarctica,BVT,Bouvet Island,Antarctica,59.0,,0,,0.0,,Bouvetoya,Dependent Territory of Norway,Harald V,,BV
+Africa,BWA,Botswana,Southern Africa,581730.0,1966.0,1622000,39.3,4834.0,4935.0,Botswana,Republic,Festus G. Mogae,204.0,BW
+Africa,CAF,Central African Republic,Central Africa,622984.0,1960.0,3615000,44.0,1054.0,993.0,Centrafrique/Be-Afrika,Republic,Ange-Felix Patasse,1889.0,CF
+North America,CAN,Canada,North America,9970610.0,1867.0,31147000,79.4,598862.0,625626.0,Canada,"Constitutional Monarchy, Federation",Elisabeth II,1822.0,CA
+Oceania,CCK,Cocos (Keeling) Islands,Australia and New Zealand,14.0,,600,,0.0,,Cocos (Keeling) Islands,Territory of Australia,Elisabeth II,2317.0,CC
+Europe,CHE,Switzerland,Western Europe,41284.0,1499.0,7160400,79.6,264478.0,256092.0,Schweiz/Suisse/Svizzera/Svizra,Federation,Adolf Ogi,3248.0,CH
+South America,CHL,Chile,South America,756626.0,1810.0,15211000,75.7,72949.0,75780.0,Chile,Republic,Ricardo Lagos Escobar,554.0,CL
+Asia,CHN,China,Eastern Asia,9572900.0,-1523.0,1277558000,71.4,982268.0,917719.0,Zhongquo,People'sRepublic,Jiang Zemin,1891.0,CN
+Africa,CIV,Cote dIvoire,Western Africa,322463.0,1960.0,14786000,45.2,11345.0,10285.0,Cote dIvoire,Republic,Laurent Gbagbo,2814.0,CI
+Africa,CMR,Cameroon,Central Africa,475442.0,1960.0,15085000,54.8,9174.0,8596.0,Cameroun/Cameroon,Republic,Paul Biya,1804.0,CM
+Africa,COD,"Congo, The Democratic Republic of the",Central Africa,2344858.0,1960.0,51654000,48.8,6964.0,2474.0,Republique Democratique du Congo,Republic,Joseph Kabila,2298.0,CD
+Africa,COG,Congo,Central Africa,342000.0,1960.0,2943000,47.4,2108.0,2287.0,Congo,Republic,Denis Sassou-Nguesso,2296.0,CG
+Oceania,COK,Cook Islands,Polynesia,236.0,,20000,71.1,100.0,,The Cook Islands,Nonmetropolitan Territory of New Zealand,Elisabeth II,583.0,CK
+South America,COL,Colombia,South America,1138914.0,1810.0,42321000,70.3,102896.0,105116.0,Colombia,Republic,Andres Pastrana Arango,2257.0,CO
+Africa,COM,Comoros,Eastern Africa,1862.0,1975.0,578000,60.0,4401.0,4361.0,Komori/Comores,Republic,Azali Assoumani,2295.0,KM
+Africa,CPV,Cape Verde,Western Africa,4033.0,1975.0,428000,68.9,435.0,420.0,Cabo Verde,Republic,Antonio Mascarenhas Monteiro,1859.0,CV
